@@ -1,0 +1,9 @@
+[Event "Pygame Chess"]
+[Site "https://replit.com/@pogboys/chess"]
+[Date "2022.08.03"]
+[Round "?"]
+[White "nik"]
+[Black "Tissi_Bot"]
+[Result "1-0"]
+
+1. e4 b5 2. Bxb5 Bb7 3. d4 Bxe4 4. f3 Bxf3 5. gxf3 Nf6 6. Qd3 g6 7. Nh3 Nh5 8. Bxd7+ Kxd7 9. Qb5+ Ke6 10. d5+ Qxd5 11. Qxd5+ Kxd5 12. Be3 Rg8 13. f4 Nxf4 14. Bxf4 Na6 15. Nc3+ Kc4 16. b3+ Kxc3 17. O-O Kxc2 18. Rf3 h6 19. Nf2 e5 20. Bxe5 g5 21. Nd3 Bb4 22. Nxb4+ Nxb4 23. Bxc7 Nxa2 24. Rxa2+ Kc1 25. Rf1# 1-0
